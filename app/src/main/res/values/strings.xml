@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Programme scolaire</string>
+    <string name="detail_label">Matiere</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
